@@ -105,3 +105,5 @@ blockquote cite:before {
       background-color: blue;
    }
  }
+ @media screen and (max-width: 480px) {
+ }
