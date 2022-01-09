@@ -100,3 +100,8 @@ blockquote cite:before {
       background-color: blue;
    }
  }
+ @media screen and (min-width: 800px) and (max-width: 1024px) {
+    body {
+      background-color: blue;
+   }
+ }
